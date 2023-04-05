@@ -1,0 +1,17 @@
+{
+  "name": "protractorframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^4.6.0",
+    "protractor": "^7.0.0",
+    "protractor-beautiful-reporter": "^1.3.6"
+  }
+}
